@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Libertinus+Serif:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap");
+
+body {
+  font-family: "Libertinus Serif", serif;
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  padding: 0 5%;
+}
+p {
+  color: palevioletred;
+}
+
+h1 {
+  color: rgb(97, 9, 39);
+  font-size: 2em;
+}
